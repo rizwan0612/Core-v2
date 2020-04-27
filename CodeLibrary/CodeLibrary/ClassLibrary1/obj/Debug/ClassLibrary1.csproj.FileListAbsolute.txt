@@ -1,0 +1,18 @@
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\CoreLibrary.dll
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\CoreLibrary.pdb
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.Core.dll
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.dll
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.pdb
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.xml
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.Core.pdb
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\bin\Debug\NServiceBus.Core.xml
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\obj\Debug\CoreLibrary.dll
+C:\Users\695777\source\repos\CodeLibrary\ClassLibrary1\obj\Debug\CoreLibrary.pdb
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\bin\Debug\CoreLibrary.dll
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\bin\Debug\CoreLibrary.pdb
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\obj\Debug\CoreLibrary.dll
+C:\Users\695777\source\repos\new version\CodeLibrary\ClassLibrary1\obj\Debug\CoreLibrary.pdb
